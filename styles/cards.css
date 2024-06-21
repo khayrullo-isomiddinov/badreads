@@ -1,0 +1,83 @@
+#card-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.book-card {
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+    margin-top: 20px;
+    text-align: center;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffffff; 
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.book-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 20px 30px rgba(0, 0, 0, 0.3);
+}
+
+.book-card .image {
+    border-radius: 8px 8px 0 0;
+    overflow: hidden;
+}
+
+.book-card img {
+    height: auto;
+    max-width: 80%;
+    transition: transform 0.3s;
+}
+
+.book-card img:hover {
+    transform: scale(1.1);
+}
+
+.book-card .details {
+    padding: 10px;
+    background: linear-gradient(135deg, #f3f4f6, #e3e4e8);
+    border-radius: 0 0 8px 8px;
+}
+
+.book-card h2 {
+    font-size: 18px;
+    margin-top: 10px;
+    font-family: 'Arial', sans-serif;
+    transition: color 0.3s;
+}
+
+.book-card h2 a {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.book-card h2 a:hover {
+    color: var(--clr-highlight);
+}
+
+.book-card .edit {
+    background-color: var(--clr-main);
+    border-radius: 0 0 8px 8px;
+    color: var(--clr-white);
+    cursor: pointer;
+    font-weight: bold;
+    padding: 10px 0px;
+    transition: background-color 0.3s, margin-top 0.3s, padding-bottom 0.3s;
+    margin-top: auto;
+    width: 100%;
+    margin-left: 0;
+}
+
+.book-card .edit:hover {
+    background-color: var(--clr-highlight);
+    margin-top: -5px;
+    padding-bottom: 15px;
+}

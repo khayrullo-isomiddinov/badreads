@@ -1,0 +1,82 @@
+{
+    "book0": {
+        "title": "Julie Fortune - Sacrifice Moon",
+        "author": "Julie Fortune",
+        "cover": "assets\/book_cover_1.png",
+        "description": "Sacrifice Moon is a thrilling adventure that takes you through the mystical lands and challenges the protagonist faces. Julie Fortune masterfully weaves a tale of intrigue and bravery.",
+        "publication_date": "2023-01-15",
+        "isbn": "978-3-16-148410-0",
+        "ratings": [
+            4
+        ]
+    },
+    "book1": {
+        "title": "Sonny Whitelaw - City of the Gods",
+        "author": "Sonny Whitelaw",
+        "cover": "assets\/book_cover_2.png",
+        "description": "Notes about Argos, the planet originally under the control of the Goa'uld Pelops. A definitive Greek ancestry decorates the structures, as well as the clothing of the Argosians, the planets occupants who preferred to call themselves the Chosen. For some time Pelops operated on the planet, experimenting on the human population, much like Nirrti has done, attempting to expand their lifespan.",
+        "publication_date": "2005-01-01",
+        "isbn": "978-3-16-148410-1",
+        "ratings": []
+    },
+    "book2": {
+        "title": "Suzanne Wood - Barque of Heaven",
+        "author": "Suzanne Wood",
+        "cover": "assets\/book_cover_3.png",
+        "description": "Barque of Heaven takes readers on a cosmic journey where ancient myth and futuristic technology collide. Suzanne Wood crafts a narrative rich in mystery and adventure, challenging the boundaries of the known universe.",
+        "publication_date": "2010-05-12",
+        "isbn": "978-3-16-148410-2",
+        "ratings": []
+    },
+    "book3": {
+        "title": "Tim Waggoner - Valhalla",
+        "author": "Tim Waggoner",
+        "cover": "assets\/book_cover_4.png",
+        "description": "Valhalla is a gripping saga of heroism and sacrifice. Tim Waggoner brings the Norse mythology to life in this thrilling tale of warriors, gods, and the eternal battle for glory and honor.",
+        "publication_date": "2012-09-20",
+        "isbn": "978-3-16-148410-3",
+        "ratings": []
+    },
+    "book4": {
+        "title": "Amy Griswald - Heart's Desire",
+        "author": "Amy Griswald",
+        "cover": "assets\/book_cover_5.png",
+        "description": "Heart's Desire is a poignant story of love, loss, and the journey to find oneself. Amy Griswald captures the essence of human emotions and the complexities of relationships in this heartfelt novel.",
+        "publication_date": "2015-02-14",
+        "isbn": "978-3-16-148410-4",
+        "ratings": []
+    },
+    "book5": {
+        "title": "Geonn Cannon - Female of the Species",
+        "author": "Geonn Cannon",
+        "cover": "assets\/book_cover_6.png",
+        "description": "Female of the Species is a compelling exploration of identity and transformation. Geonn Cannon delves into the lives of extraordinary women who navigate a world that often underestimates them, revealing their strength and resilience.",
+        "publication_date": "2018-07-25",
+        "isbn": "978-3-16-148410-5",
+        "ratings": []
+    },
+    "book6": {
+        "title": "Harry Potter and The Goblet of Fire",
+        "author": "J.K Rowling",
+        "cover": "https:\/\/resizing.flixster.com\/-XZAfHZM39UwaGJIFWKAE8fS0ak=\/v3\/t\/assets\/p90599_p_v8_aq.jpg",
+        "description": "Harry Potter and the Goblet of Fire\" is the fourth book in the Harry Potter series by J.K. Rowling. In this installment, Harry returns to Hogwarts School of Witchcraft and Wizardry for his fourth year. The Triwizard Tournament, a magical competition between three wizarding schools, is being hosted at Hogwarts, and Harry unexpectedly finds himself selected as a fourth competitor. Throughout the tournament, Harry faces various challenges, including battling a dragon, navigating a treacherous lake, and navigating a maze. Meanwhile, dark forces are at work, as the resurgence of Lord Voldemort becomes increasingly apparent. The climax sees Harry and fellow student Cedric Diggory unwittingly transported to a graveyard where Voldemort is restored to his physical form. Cedric is killed, and Harry narrowly escapes. This book marks a turning point in the series as the threat of Voldemort's return becomes more urgent and the wizarding world braces for the impending conflict.",
+        "publication_date": "2005-11-18",
+        "isbn": "978-3-16-148410-6"
+    },
+    "book7": {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "cover": "https:\/\/m.media-amazon.com\/images\/I\/71S7Z+YhJFL._AC_UF1000,1000_QL80_.jpg",
+        "description": "The Hobbit\" is a fantasy novel by J.R.R. Tolkien, first published in 1937. The story follows Bilbo Baggins, a hobbit who enjoys a quiet and contented life, until he is visited by the wizard Gandalf and a group of dwarves. The dwarves, led by Thorin Oakenshield, seek Bilbo's help in reclaiming their homeland and treasure from the dragon Smaug. Despite his initial reluctance, Bilbo embarks on an epic journey that takes him through treacherous lands inhabited by trolls, goblins, elves, and giant spiders. Along the way, he encounters Gollum and comes into possession of a mysterious and powerful ring. Bilbo's courage and wit are tested as he aids the dwarves in their quest and ultimately plays a crucial role in the adventure's success. \"The Hobbit\" serves as a prelude to Tolkien's later work, \"The Lord of the Rings,\" and is renowned for its rich storytelling, imaginative world-building, and enduring themes of heroism and friendship.",
+        "publication_date": "2024-06-19",
+        "isbn": "978-0-618-00221-7"
+    },
+    "book8": {
+        "title": "To Kill A Mockingbird",
+        "author": "Harper Lee",
+        "cover": "https:\/\/m.media-amazon.com\/images\/I\/81gepf1eMqL._AC_UF1000,1000_QL80_.jpg",
+        "description": "To Kill a Mockingbird\" is a classic novel by Harper Lee, published in 1960. The story is set in the 1930s in the fictional town of Maycomb, Alabama, and is narrated by Scout Finch, a young girl. Through Scout's eyes, we witness the deep-seated racial tensions and prejudices in the South. The plot revolves around Scout's father, Atticus Finch, a principled lawyer who is defending Tom Robinson, a black man falsely accused of raping a white woman. Despite overwhelming evidence of Tom's innocence, the racially biased town convicts him. The novel addresses profound themes such as racial injustice, moral growth, and the loss of innocence. \"To Kill a Mockingbird\" is celebrated for its poignant exploration of human nature, its rich characters, and its moral integrity. It remains a cornerstone of American literature and a powerful commentary on social issues.",
+        "publication_date": "1999-03-09",
+        "isbn": "978-0-06-112008-8"
+    }
+}

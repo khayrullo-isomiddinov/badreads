@@ -1,0 +1,105 @@
+:root {
+    --clr-main: #4c4d57;
+    --clr-secondary: #717eff;
+    --clr-highlight: #3be5af;
+    --clr-light: #cce2e6;
+    --clr-dark: #574c52;
+    --clr-white: #e2edf0;
+}
+
+#logout_button {
+    color: var(--clr-white);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    position: absolute;
+    top: 7%;
+    right: 110px;
+}
+
+#logout_button:hover {
+    background-color: var(--clr-highlight);
+}
+
+#profile_button {
+    color: var(--clr-white);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    position: absolute;
+    top: 3%;
+    right: 8px;
+}
+
+#edit_text {
+    display: block;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+body {
+    background-color: beige;
+    color: var(--clr-dark);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+#content {
+    margin: 0 auto;
+    max-width: 90%;
+    min-height: 80vh;
+    padding: 10px
+}
+@media (min-width: 850px) and (max-width: 1500px) {
+    #content {
+        margin: 0 auto;
+        max-width: 70%;
+    }
+}
+@media (min-width: 1501px) {
+    #content {
+        margin: 0 auto;
+        max-width: 50%;
+    }
+}
+.icon {
+    font-family: "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji", "Android Emoji", "EmojiSymbols", sans-serif;
+}
+
+h1 {
+    color: var(--clr-white);
+}
+
+h2, h3 {
+    color: var(--clr-main);
+}
+
+header {
+    background-color: var(--clr-main);
+    color: var(--clr-white);
+    padding: 10px;
+    background-image: url('header_image.jpeg');
+}
+
+header h1 a {
+    color: var(--clr-white);
+    text-decoration: none;
+}
+
+header h1 a:hover {
+    text-decoration: underline;
+}
+footer {
+    background-color: var(--clr-main);
+    color: var(--clr-white);
+    padding: 10px;
+    text-align: center;
+}
